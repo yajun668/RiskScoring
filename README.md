@@ -12,7 +12,7 @@ The code accompanies the paper "A Novel Hyperparameter Search Approach for Accur
 
 # Terms and Use:
 
-Copyright (c) 2024 Yajun Lu, Zhuqi Miao, and Thanh Duong.
+Copyright (c) 2024 Yajun Lu, Thanh Duong, and Zhuqi Miao.
 
 Creative Commons Legal Code
 
