@@ -10,6 +10,7 @@ The code accompanies the paper "[A Novel Hyperparameter Search Approach for Accu
   	  	number={8},
           	pages={1763–1773},
           	year={2024},
+	   	doi = {https://doi.org/10.1093/jamia/ocae140},
           	publisher={Oxford University Press}
   	}
 
