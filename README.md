@@ -1,13 +1,16 @@
 # RiskScoring
 
-The code accompanies the paper "[A Novel Hyperparameter Search Approach for Accuracy and Simplicity in Disease Prediction Risk Scoring](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4756710)". If you wish to use or cite this code, please cite the paper:
+The code accompanies the paper "[A Novel Hyperparameter Search Approach for Accuracy and Simplicity in Disease Prediction Risk Scoring](https://doi.org/10.1093/jamia/ocae140)". If you wish to use or cite this code, please cite the paper:
 
-  	@article{lu2023novel,
+  	@article{lu2024novel,
     	title={A Novel Hyperparameter Search Approach for Accuracy and Simplicity in Disease Prediction Risk Scoring},
     	author={Lu, Yajun and Duong, Thanh and Miao, Zhuqi and Thieu, Thanh and Lamichhane, Jivan and Ahmed, Abdulaziz and Delen, Dursun},
-    	journal={Available at SSRN 4756710},
-	 	note = {Under Review},
-    	year={2024}
+     	volume={31},
+		journal={Journal of the American Medical Informatics Association},
+  	  	number={8},
+          	pages={1763–1773},
+          	year={2024},
+          	publisher={Oxford University Press}
   	}
 
 ## Data Availability Statement
